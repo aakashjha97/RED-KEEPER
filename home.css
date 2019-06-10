@@ -1,0 +1,18 @@
+.center{
+	text-align:center;
+	border-left-color: pink;
+}
+.pink{
+	background-color: pink;
+	height:200px;
+}
+#image{
+	width: 650px;
+	height:500px;
+}
+.height{
+	height: 500px;
+}
+.height1{
+	height: 200px;
+}
